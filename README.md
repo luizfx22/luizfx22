@@ -1,16 +1,23 @@
 ### Hi there 👋
+My name is Luiz (spoken as Louis), I'm a Junior Web Developer and Linux enjoyer
 
-<!--
-**luizfx22/luizfx22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Talk is cheap, show me your tools! 🔧
+- [x] VueJS / NuxtJS 💘
+- [x] NodeJS 💚
+- [x] TypeScript 💙
+- [x] Python 😍
+- [x] PHP
+- [x] MySQL / PostgreSQL
+- [x] Firebase
+- [x] Supabase 🤩
 
-Here are some ideas to get you started:
+### Hit me up 📮
+- [x] E-Mail: me@luizg.dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Some stats, just for you 😉
+<p align="center">
+  <a href="https://github.com/luizfx22" style="text-decoration: none">
+    <img height="200em" src="https://activity-graph.herokuapp.com/graph?username=luizfx22&theme=github&bg_color=20232a&hide_border=true" alt="What I like to code" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfx22&hide_border=1&theme=react&hide=issues&langs_count=5&custom_title=Top%20Languages" alt="What I do in my GitHub account" />
+  </a>
+</p>
