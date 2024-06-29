@@ -12,4 +12,4 @@ My name is Luiz (spoken as Louis), I'm a Junior Web Developer and Linux enjoyer
 - [x] Supabase 🤩
 
 ### Hit me up 📮
-- [x] E-Mail: me@luizg.dev
+- [x] E-Mail: contato@gominskii.com
